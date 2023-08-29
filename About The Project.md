@@ -1,7 +1,7 @@
 # ChatApp
 I made a ChatApp using the FireBase Database.
 
-It was my First Project and I decided to use the FirebBase Databse. I was unfamiliar with the database so I had to research a lot to get used to how to integrate everything with the app but at the end it all worked out and it was extremely worth it.
+It was my First Project and I decided to use the FirebBase Database. I was unfamiliar with the database so I had to research a lot to get used to how to integrate everything with the app but at the end it all worked out and it was extremely worth it.
 
 Features 1.It uses JetPack Compose and ViewModels. 2.You can chat to other authorized users in real time.
 
